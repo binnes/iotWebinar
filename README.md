@@ -23,5 +23,7 @@ Quickstart link
 - [IoT sensor simulator](https://quickstart.internetofthings.ibmcloud.com/iotsensor)  
 - [Quickstart](https://quickstart.internetofthings.ibmcloud.com)
 
+The [Node-RED site](https://nodered.org) contains documentation, sample flows and information about additional nodes available.  
+
 ## Challenge
 For the next webinar we would like you to create your own conversation service incorporating data from an IoT source, maybe your smartphone, a real device or the quickstart simulator?  On the next webinar you will have the opportunity to ask questions and discuss any areas where you encountered difficulty.  
