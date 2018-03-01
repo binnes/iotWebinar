@@ -19,5 +19,9 @@ There are 2 Coursera courses available which will allow you to investigate the W
 
 There is also a large set of resources on [IBM Code](https://developer.ibm.com/code/) including the [Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/), where you will find a large collection of conversation samples and resources.
 
+Quickstart link
+- [IoT sensor simulator](https://quickstart.internetofthings.ibmcloud.com/iotsensor)  
+- [Quickstart](https://quickstart.internetofthings.ibmcloud.com)
+
 ## Challenge
 For the next webinar we would like you to create your own conversation service incorporating data from an IoT source, maybe your smartphone, a real device or the quickstart simulator?  On the next webinar you will have the opportunity to ask questions and discuss any areas where you encountered difficulty.  
