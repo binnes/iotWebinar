@@ -11,6 +11,7 @@ Ensure you have an active IBM Cloud account, if not sign up using [this link](ht
 - Add the conversation, speech to text and text to speech (and optionally the translation) services to the IBM Cloud application   
 - Import the Conversation workspace into the IBM Cloud conversation service from   [here](https://github.com/binnes/tobyjnr/blob/master/conversation/TobyJnr_conversation_workspace.json)  
 - Add the credentials for the IBM Cloud services to the nodes in the flow  
+- Go to [Weather Underground](https://www.wunderground.com) and create an API key then add to the weather underground node  
 
 ## Additional resources  
 The sample flow used in this webinar is a simplified extract from another project, which can be found [here](https://github.com/binnes/tobyjnr), which you may want to check out.  
