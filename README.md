@@ -4,7 +4,7 @@
 Ensure you have an active IBM Cloud account, if not sign up using [this link](https://ibm.biz/BdZRMN)  
 
 ## Getting started  
-- Deploy the Internet of Things boilerplate on the IBM Cloud  
+- Deploy the Internet of Things boilerplate on the IBM Cloud - give the application 512MB memory
 - Access the Node-RED editor and create your login credentials  
 - Add the following nodes to the pallet (**node-red-contrib-browser-utils**, **node-red-dashboard** and **node-red-node-weather-underground**)  
 - Import the Node-RED  [flow](https://github.com/binnes/iotWebinar/blob/master/webinar.flow) from this git repo  
